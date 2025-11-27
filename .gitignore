@@ -1,0 +1,10 @@
+# IDEs
+.vscode/
+.vscode/*
+.github/*
+.github
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
